@@ -1,0 +1,14 @@
+{
+  "name": "test-jsdemo",
+  "version": "1.0.1",
+  "description": "just for a test!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "__npminstall_done": "Thu Oct 29 2020 09:28:35 GMT+0800 (GMT+08:00)",
+  "_from": "test-jsdemo@1.0.1",
+  "_resolved": "https://registry.npm.taobao.org/test-jsdemo/download/test-jsdemo-1.0.1.tgz"
+}
